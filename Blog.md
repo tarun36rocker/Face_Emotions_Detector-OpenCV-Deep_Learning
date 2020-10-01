@@ -18,7 +18,8 @@
  So lets begin !   
     
  ![alt text](https://github.com/tarun36rocker/Open-contributions/blob/master/pic1.png)
-    Just like how we need to brush every morning , we need to import few key modules that are required for the WHOLE
+ 
+ Just like how we need to brush every morning , we need to import few key modules that are required for the WHOLE
     program to run succesfully
     
    * Sequential :: This is the base/framework that you we will be using to integrate the different layers of the Neural Network !
